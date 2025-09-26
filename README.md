@@ -14,6 +14,4 @@ This project uses Terraform to create and manage a Docker container locally.
 - `main.tf`: Terraform configuration
 - `Execution_logs.md`: Commands and outputs log
 
----
 
-That's it!  
